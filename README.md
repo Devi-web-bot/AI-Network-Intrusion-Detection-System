@@ -28,16 +28,6 @@ This project demonstrates how to use **Machine Learning (Random Forest)** and **
 The dataset file is not included in this repository due to GitHub file size limitations.
 You can download the dataset from the link below:
 
-Google Drive Link: 📂 Dataset Information
-
-The dataset file is not included in this repository due to GitHub file size limitations.
-You can download the dataset from the link below:
-
-Google Drive Link: 📂 Dataset Information
-
-The dataset file is not included in this repository due to GitHub file size limitations.
-You can download the dataset from the link below:
-
 Google Drive Link: https://drive.google.com/file/d/1DhImV96DzTCLqfzPJMIXrkhqc_HUkZYE/view?usp=sharing
 
 ## 🎓 About
